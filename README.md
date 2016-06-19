@@ -1,4 +1,4 @@
-##### Speech Recognition Project
+## Speech Recognition Project
 
 The basic purpose of the system is to recognize a spoken digit. 
 For this implementation, there are mainly 3 different implementation levels. 
