@@ -1,4 +1,3 @@
-# Voice_Recognition
 ##### Speech Recognition Project
 
 The basic purpose of the system is to recognize a spoken digit. 
